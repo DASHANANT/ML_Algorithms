@@ -5,10 +5,8 @@ Ready to use
 ### Table of Contents
 
 - Linear Regression
-- Logistic Regression
-- Naive Bayes (Binary Classification)
-- Multinomial Naive Bayes
 - Linear Discriminant Analysis(LDA)
-- Quadrature Discriminant Analysis (QDA)
+- Logistic Regression
+- Multinomial Naive Bayes
 - K Nearest Neibours
 
