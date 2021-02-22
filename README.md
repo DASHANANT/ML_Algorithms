@@ -8,5 +8,6 @@ Ready to use
 - Linear Discriminant Analysis(LDA)
 - Logistic Regression
 - Multinomial Naive Bayes
-- K Nearest Neibours
+- AdaBoost
+- PCA
 
