@@ -10,4 +10,6 @@ Ready to use
 - Multinomial Naive Bayes
 - AdaBoost
 - PCA
-
+- Ridge Regression
+- KNN
+- Kmeans
