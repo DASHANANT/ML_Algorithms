@@ -1,7 +1,7 @@
 # ML_Algorithms
-Ready to use
-
-
+Implementation from scratch 
+programming - Python 
+lab - Jupyter
 ### Table of Contents
 
 - Linear Regression
@@ -13,3 +13,6 @@ Ready to use
 - Ridge Regression
 - KNN
 - Kmeans
+- Support Vector Machine using OPTIMIZATION Library
+- Support Vector Machine using SMO
+- Kernel PCA
