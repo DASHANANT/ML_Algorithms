@@ -1,7 +1,6 @@
 # ML_Algorithms
-Implementation from scratch 
-programming - Python 
-lab - Jupyter
+Implementation in python from scratch 
+
 ### Table of Contents
 
 - Linear Regression
