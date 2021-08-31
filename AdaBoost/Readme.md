@@ -12,3 +12,4 @@ AdaBoost (with decision trees as the weak learners) is often referred to as the 
 
 --------------------------------------------
 ![](https://th.bing.com/th/id/OIP.QXRQ26gT3ZkyY0EvKFHDUAHaEv?pid=ImgDet&rs=1)
+![](https://th.bing.com/th/id/R.417450dba813dd993263412f2851c350?rik=xj1kTjRMZX23eA&riu=http%3a%2f%2faa.ssdi.di.fct.unl.pt%2fLectures%2flec%2fimg%2fL12-stumping.gif&ehk=Ei8RUC6nvphBBvLs5rw1%2bdeKftF6nwquPMn0x6lmTUI%3d&risl=&pid=ImgRaw&r=0)
