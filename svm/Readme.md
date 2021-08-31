@@ -1,10 +1,10 @@
 
-SVM - Support vector machine
+# SVM - Support vector machine
 A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.
 
 
-- How Does SVM Work?
-- support-vector machine constructs a hyperplane or set of hyperplanes in a high- or infinite-dimensional space, which can be used for classification, regression, or other tasks like outliers detection.[3] Intuitively, a good separation is achieved by the hyperplane that has the largest distance to the nearest training-data point of any class (so-called functional margin), since in general the larger the margin, the lower the generalization error of the classifier
+# How Does SVM Work?
+Support-vector machine constructs a hyperplane or set of hyperplanes in a high- or infinite-dimensional space, which can be used for classification, regression, or other tasks like outliers detection.[3] Intuitively, a good separation is achieved by the hyperplane that has the largest distance to the nearest training-data point of any class (so-called functional margin), since in general the larger the margin, the lower the generalization error of the classifier
 
 ![Kernel_Machine.svg](https://en.wikipedia.org/wiki/File:Kernel_Machine.svg)
 
