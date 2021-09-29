@@ -10,3 +10,5 @@ In regression analysis, logistic regression (or logit regression) is estimating 
 # Receiver operating characteristic
 ------------------------------------------------------------------------------------
 A receiver operating characteristic curve, or ROC curve, is a graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied. 
+
+![](https://github.com/DASHANANT/ML_Algorithms/blob/main/Logistic%20Regression/ROC%20AUC%20Curve.png)
