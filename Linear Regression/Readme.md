@@ -1,3 +1,7 @@
+# Linear Regression
+----------------------------------------------------------------------------------------
+![](https://github.com/DASHANANT/ML_Algorithms/blob/main/Linear%20Regression/linear%20regression.png)
+
 # Normal Equations 
 ---------------------------------------------------------------------------------------
 The closed-form solution should be preferred for "smaller" datasets where calculating (a "costly") matrix inverse is not a concern. For very large datasets, or datasets where the inverse of [XTX] may not exist (the matrix is non-invertible or singular, e.g., in case of perfect multicollinearity), the QR, SVD or gradient descent approaches are to be preferred.
