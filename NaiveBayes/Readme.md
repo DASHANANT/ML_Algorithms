@@ -22,7 +22,9 @@ Look at the equation below:
 - Step 2: Create Likelihood table by finding the probabilities 
 - Step 3: Now, use Naive Bayesian equation to calculate the posterior probability for each class. 
         The class with the highest posterior probability is the outcome of prediction.
+        
+ 
 
-Why naive Bayes called NAive?
+Why naive Bayes called Naive?
 -------------------------------
 Beacuse it assumes conditional independence of features
